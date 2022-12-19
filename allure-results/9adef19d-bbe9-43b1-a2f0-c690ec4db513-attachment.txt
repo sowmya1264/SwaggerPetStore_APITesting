@@ -1,0 +1,8 @@
+Response body {
+    "id": 4,
+    "petId": 20,
+    "quantity": 1,
+    "shipDate": "2022-12-16T06:37:13.192+0000",
+    "status": "placed",
+    "complete": true
+}

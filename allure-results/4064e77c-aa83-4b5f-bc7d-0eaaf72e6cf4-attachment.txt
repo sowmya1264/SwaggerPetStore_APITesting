@@ -1,0 +1,12 @@
+Response Body:{
+    "totvs": 1,
+    "sold": 9,
+    "placed": 3,
+    "string": 536,
+    "avaliable": 1,
+    "pending": 2,
+    "available": 430,
+    "solved": 1,
+    "hello": 1,
+    "totvs1": 1
+}

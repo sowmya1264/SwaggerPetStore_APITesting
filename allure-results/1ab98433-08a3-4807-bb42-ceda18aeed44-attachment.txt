@@ -1,0 +1,10 @@
+Response body{
+    "id": 7,
+    "username": "user7",
+    "firstName": "user",
+    "lastName": "two",
+    "email": "user2@gmail.com",
+    "password": "password",
+    "phone": "1234",
+    "userStatus": 1
+}
