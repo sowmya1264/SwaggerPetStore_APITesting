@@ -1,4 +1,4 @@
-                                          Rest Assured API Testing Project - Swagger Pet Store
+                       Rest Assured API Testing Project - Swagger Pet Store
 
 •	Reference: Swagger URL: https://petstore.swagger.io/v2 
 
